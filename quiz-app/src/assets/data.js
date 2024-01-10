@@ -1,0 +1,42 @@
+export const data = [
+    {
+        question: "What spell did Harry use to kill Lord Voldemort?",
+        option1: "Expelliarmus",
+        option2: "Expecto Patronum",
+        option3: "Avada Kedavra",
+        option4: "Accio",
+        ans: 1,
+    },
+    {
+        question: "What is the primary ingredient in Polyjuice potion?",
+        option1: "The nail of the person you want to transform into",
+        option2: "The hair of the person you want to transform into",
+        option3: "The saliva of the person you want to transform into",
+        option4: "The clothes of the person you want to transform into",
+        ans: 2,
+    },
+    {
+        question: "What magical creature is known for guarding Gringott's Bank?",
+        option1: "A Giant",
+        option2: "A Hippogriff",
+        option3: "A House elf",
+        option4: "A Dragon",
+        ans: 4,
+    },
+    {
+        question: "What is the name of the magical map that shows the entire layout of Hogwarts?",
+        option1: "Gave him an exquisite singing voice",
+        option2: "Turned his leg wooden",
+        option3: "Removed his bones entirely",
+        option4: "Forced him to speak Parseltongue",
+        ans: 3,
+    },
+    {
+        question: "What position does Harry play in Quidditch?",
+        option1: "Seeker",
+        option2: "chaser",
+        option3: "beaters",
+        option4: "keeper",
+        ans: 1,
+    },
+] 
