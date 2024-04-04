@@ -1,5 +1,7 @@
 ## Harry Potter Quiz App
 
+![hp-quiz](https://github.com/InRenck/HP-quiz/assets/133249054/562c0b97-3196-4f0a-9eb3-a59f69e9ea0c)
+
 # Overview
 This project is a Harry Potter-themed quiz app built using React. It allows users to answer a series of questions related to the Harry Potter series and provides immediate feedback on each question. The app displays the user's score at the end of the quiz.
 
@@ -9,6 +11,8 @@ This project is a Harry Potter-themed quiz app built using React. It allows user
  - CSS Styles
  - Quiz Data
  - License
+# Link
+https://hp-quiz-two.vercel.app/
 
 # Project Structure
 The project includes the following files:
